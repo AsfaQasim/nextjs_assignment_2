@@ -38,14 +38,14 @@ export default function About(){
             </h2>
             <div className="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4" />
             <p className="text-base">
-            "Explore the world's most breathtaking destinations with our tailor-made travel packages. Your next unforgettable adventure starts here!"
+            Explore the world&apos;s most breathtaking destinations with our tailor-made travel packages. Your next unforgettable adventure starts here.
             </p>
           </div>
         </div>
         <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-500 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
           <p className="leading-relaxed text-lg mb-4">
            
-"Discover hidden gems and iconic landmarks with our expertly curated itineraries. Whether you're seeking a relaxing getaway or an adventurous escape, we have the perfect destination for you. Let us handle the details, so you can focus on making memories that last a lifetime. From exotic beaches to vibrant cityscapes, your dream vacation is just a booking away!"
+Discover hidden gems and iconic landmarks with our expertly curated itineraries. Whether you&apos;re seeking a relaxing getaway or an adventurous escape, we have the perfect destination for you. Let us handle the details, so you can focus on making memories that last a lifetime. From exotic beaches to vibrant cityscapes, your dream vacation is just a booking away.
           </p>
         
         </div>
